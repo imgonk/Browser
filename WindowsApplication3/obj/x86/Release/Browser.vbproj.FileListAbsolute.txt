@@ -1,0 +1,17 @@
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Release\Browser.exe.config
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Release\Browser.exe.manifest
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Release\Browser.application
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Release\Browser.exe
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Release\Browser.pdb
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Release\Browser.xml
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Release\Browser.Dialog1.resources
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Release\Browser.Form1.resources
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Release\Browser.Resources.resources
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Release\Browser.exe.manifest
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Release\Browser.application
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Release\Browser.exe
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Release\Browser.xml
+C:\Users\Gonçalo\documents\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Release\Browser.pdb
